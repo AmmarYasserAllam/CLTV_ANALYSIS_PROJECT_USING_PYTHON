@@ -19,3 +19,15 @@ Customer Lifetime Value (CLTV) analysis is a crucial tool for businesses seeking
 ## Conclusion
 
 Customer Lifetime Value analysis is a powerful tool for businesses to make informed decisions about customer acquisition, retention, and marketing strategies. By focusing on customer segments with higher CLTV, businesses can maximize profitability and foster stronger relationships with their most valuable customers.
+
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- Plotly
+- Data Preprocessing
+- CLTV Analysis
+- Customer Segmentation
+- Data Visualization
+
